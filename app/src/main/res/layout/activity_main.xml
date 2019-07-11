@@ -53,8 +53,9 @@
                                                 app:layout_constraintTop_toTopOf="parent"
                                                 android:layout_marginTop="135dp"/>
     <TextView
-            android:text="Gemaakt door Dick Stuut."
-            android:layout_width="199dp"
-            android:layout_height="27dp" tools:layout_editor_absoluteY="688dp"
-            tools:layout_editor_absoluteX="16dp" android:id="@+id/textView3"/>
+            android:text="https://github.com/DikkieDik123/Du-kentekenafkomst"
+            android:layout_width="376dp"
+            android:layout_height="28dp"
+            tools:layout_editor_absoluteX="16dp" android:id="@+id/textView3"
+            tools:layout_editor_absoluteY="687dp"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
